@@ -1,0 +1,6 @@
+{
+  "name": "Spidey Reminder",
+  "description": "100% offline, standalone custom task reminder app targeting Android 15 with screen hijacking alerts and Spider-Man aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
